@@ -46,7 +46,6 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 Github: https://codingobliqua.github.io/PinkyToe/
 
-https://drive.google.com/file/d/12jV6W-vOzsTdIV4vIzk2_5wC8F8mvAOJ/view
-[![Example Video]](https://drive.google.com/file/d/12jV6W-vOzsTdIV4vIzk2_5wC8F8mvAOJ/view)
+[![Example Video](https://codingobliqua.github.io/PinkyToe/examples/SVG%20generator.mp4)](https://drive.google.com/file/d/12jV6W-vOzsTdIV4vIzk2_5wC8F8mvAOJ/view)
 🏆 
 ---
