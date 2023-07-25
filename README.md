@@ -43,9 +43,10 @@ This project was developed by [Andres Asencios , CodingObliqua](https://github.c
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
----
+
 Github: https://codingobliqua.github.io/PinkyToe/
 
 https://drive.google.com/file/d/12jV6W-vOzsTdIV4vIzk2_5wC8F8mvAOJ/view
 [![Example Video]](https://drive.google.com/file/d/12jV6W-vOzsTdIV4vIzk2_5wC8F8mvAOJ/view)
 🏆 
+---
